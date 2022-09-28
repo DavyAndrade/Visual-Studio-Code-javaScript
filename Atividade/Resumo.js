@@ -1,0 +1,3 @@
+// Uma Linguagem de Programação é uma forma de comunicar-se com a máquina, com o intuito de instruir que ela faça coisas específicas. Em geral tem características onde um comando é definido por uma síntaxe específica.
+
+// As principais características da linguagem JavaScript é: exercer controle sobre o HTML e o CSS para manipular comportamentos de páginas web. É independente de plataforma. Permite a criação de funcionalidades para sites que não podem ser criadas com HTML e CSS.
